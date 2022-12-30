@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: red;
+
+}
+
+img{
+    margin-top:200px;
+    height: 250px;
+    border-radius: 250px;
+}
+
+p{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+h1{
+    font-family: 'Sevillana', cursive;
+}
